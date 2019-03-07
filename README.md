@@ -9,3 +9,10 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
+
+- [x] Planning and Project Management
+- [x] Competency
+- [x] Domain Knowledge
+- [X] Tools and Processes
+- [X] Practical Knowlege
+- [X] Workshop Methods
